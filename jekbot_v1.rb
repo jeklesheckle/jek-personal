@@ -8,4 +8,8 @@ jekbot.message(with_text: '*they\'re') do |event|
 	event.respond 'INCORRECT USE OF "THEIR" DETECTED'
 end
 
+jekbot.message(with_text: 'furion') do |event|
+	event.respond 'shit hero detected ;_;'
+end
+
 jekbot.run
