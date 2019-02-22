@@ -8,7 +8,7 @@ jekbot.message(with_text: '*they\'re') do |event|
 	event.respond 'INCORRECT USE OF "THEIR" DETECTED'
 end
 
-jekbot.message(with_text: 'furion') do |event|
+jekbot.message(with_text: /.*((furion)|(natures prophet)|(nature\'s prophet)).*/) do |event|
 	event.respond 'shit hero detected ;_;'
 end
 
