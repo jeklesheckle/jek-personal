@@ -1,0 +1,26 @@
+this file should either be deleted or refurbished later
+
+
+the plan is to make a basic shitter app with ads. The app should be
+half decent but low effort. Something like a tap platformer.
+
+ideas:
+-target tapper:
+    > tap targets, avoid tapping non-targets
+    > movement is "forward" camera is "first person" but no turning
+    > randomly generated, gets faster until user fails, keeping score
+      of targets tapped.
+
+-don't stop falling:
+  > like the classic that normally uses the accelerometer, but this
+    time it's just your finger. track position of user finger and
+    move them down generated obstacles. increase speed until failure
+
+-beat up a buddy:
+  > like that thing on addictinggames ages ago
+  > basically just make it using a game engine like unity
+  > features of the engine correspond to tools to attack the buddy
+
+-literally just VR passthrough:
+  > just presents camera data to VR you
+  > might add picture taking / recording idk
