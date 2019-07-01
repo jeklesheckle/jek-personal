@@ -1,0 +1,4 @@
+high ping [ping checker https://www.speedtest.net/] --> could be type of internet, otherwise contact ISP
+high latency --> same thing
+
+jitter [network jitter checker https://www.dslreports.com/tools/pingtest]  --> contact isp
