@@ -1,0 +1,4 @@
+symptoms: dusty fan, doesn't know what thermal paste is
+
+fix: pop open computer, replace thermal paste and clean fans.
+in weird cases you may want to try underclocking/volting the CPU or changing cooling

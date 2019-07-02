@@ -1,0 +1,4 @@
+switch on power supply is off
+battery is not charged / charging
+charger / adapter is bad
+screen isn't working
