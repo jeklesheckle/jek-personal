@@ -1,9 +1,6 @@
 ﻿# this runs after the windows updates are complete
 
-    # set executionpolicy back to Undefined
-Set-ExecutionPolicy Undefined -Force
-    # delete the files in temp
-Remove-Item "C:\temp\pshell_wupdate.zip"
+
 
 
 
