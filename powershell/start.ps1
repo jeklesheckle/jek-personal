@@ -30,6 +30,7 @@ $Password = Read-Host "Enter admin password: "-AsSecureString
 Get-LocalUser -Name "Administrator" | Set-LocalUser -Password $Password
 Get-LocalUser -Name "Administrator" | Enable-LocalUser
 
+# Turn off UAC prompts
 
 # Set time zone to EST
 Set-TimeZone "US Eastern Standard Time"
@@ -58,8 +59,9 @@ New-Item 'C:\Users\city\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\St
     # get the path of update.ps1 on the thumb drive
 $workingdirectory = (Get-Item -Path ".\").FullName
 $filepath = $workingdirectory + '\update.ps1'
+$batchcode = "powershell -noprofile -command `"&{ start-process powershell -ArgumentList `'-noprofile -file " + $filepath + "`' -verb RunAs}`""
     # tell update.bat to start update.ps1 on startup as administrator
-Set-Content -Path 'C:\Users\city\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\update.bat' -Value "powershell -noprofile -command `"&{ start-process powershell -ArgumentList `'-noprofile -file " + $filepath + "`' -verb RunAs)`""
+Set-Content -Path 'C:\Users\city\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\update.bat' -Value $batchcode
 
     # run update.ps1
     & '.\update.ps1'

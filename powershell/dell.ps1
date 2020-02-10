@@ -12,3 +12,5 @@
 # Turn on network discovery and file and printer sharing
 netsh advfirewall firewall set rule group="Network Discovery" new enable=Yes
 netsh advfirewall firewall set rule group="File and Printer Sharing" new enable=Yes
+
+# After all is said and done, turn UAC back onto whatever the normal setting is
