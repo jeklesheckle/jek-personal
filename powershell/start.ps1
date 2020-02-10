@@ -59,14 +59,5 @@ $filepath = $workingdirectory + "\update.ps1"
     # tell update.bat to start update.ps1 on startup
 Set-Content -Path 'C:\Users\city\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\update.bat' -Value "Powershell.exe -executionpolicy remotesigned -File $workingdirectory"
 
-    # set executionpolicy back to Undefined
-Set-ExecutionPolicy Undefined -Force
-    # delete the files in temp
-Remove-Item "C:\temp\pshell_wupdate.zip"
-
-
-# After you sign into the admin account
-
-# Turn on network discovery and file and printer sharing
-netsh advfirewall firewall set rule group="Network Discovery" new enable=Yes
-netsh advfirewall firewall set rule group="File and Printer Sharing" new enable=Yes
+    # run update.ps1
+    & '.\update.ps1'
