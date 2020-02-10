@@ -8,15 +8,15 @@ $updates = Get-WUList
 
 # "if there are updates"
 If (-NOT ($null -eq $updates)) {
+    echo "Updates found:"
     -Get-WUInstall -AcceptAll -AutoReboot
     # if you get here and you haven't restarted, restart anyway so that the logical flow of the program works
     Restart-Computer
 } Else {
+    echo "No updates to install."
     # delete updater.bat from its path
     Remove-Item 'C:\Users\city\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\update.bat' -ErrorAction SilentlyContinue
     # run the next script
     & '.\dell.ps1'
-
-    #stop execution
 }
 

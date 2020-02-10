@@ -26,6 +26,7 @@ Read-Host "Please connect the ethernet cable now"
 # After you get on the internet
 
 # Set password on admin account and enable it
+echo "Setting admin password and enabling Administrator account"
 $Password = Read-Host "Enter admin password: "-AsSecureString
 Get-LocalUser -Name "Administrator" | Set-LocalUser -Password $Password
 Get-LocalUser -Name "Administrator" | Enable-LocalUser
@@ -39,8 +40,10 @@ Get-TimeZone
 # Restart time servce (should sync with time.windows.com and set the time right
 Restart-Service -Name W32Time
 timedate.cpl
+Read-Host "Please manually update the time if the time showing is incorrect"
 
 # Install windows updates
+echo "Installing updates. The computer will restart several times during this process"
 # Downloads the WUpdate module from technet
     # create a temp folder in C if one does not exist
 New-Item -Path "C:\" -Name "temp" -ItemType "directory" -ErrorAction SilentlyContinue
@@ -64,4 +67,4 @@ $batchcode = "powershell -noprofile -command `"&{ start-process powershell -Argu
 Set-Content -Path 'C:\Users\city\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\update.bat' -Value $batchcode
 
     # run update.ps1
-    & '.\update.ps1'
+& '.\update.ps1'
