@@ -14,3 +14,4 @@ netsh advfirewall firewall set rule group="Network Discovery" new enable=Yes
 netsh advfirewall firewall set rule group="File and Printer Sharing" new enable=Yes
 
 # After all is said and done, turn UAC back onto whatever the normal setting is
+# Set-ItemProperty -Path REGISTRY::HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Policies\System -Name ConsentPromptBehaviorAdmin -Value 1

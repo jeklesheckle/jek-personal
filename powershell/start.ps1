@@ -4,6 +4,7 @@
 # Development notes:
 # -use variables to make sure paths and names are consistent between commands
 # -change the name of pshell_wupdate.zip to reflect the name of the downloaded file
+# -you might be able to automate the blue setup screen too
 #
 # CURRENT: Using the machine closest to me to sort out windows updates.
 # NEXT: try and figure out Dell Command | Update updates next
@@ -30,8 +31,6 @@ echo "Setting admin password and enabling Administrator account"
 $Password = Read-Host "Enter admin password: "-AsSecureString
 Get-LocalUser -Name "Administrator" | Set-LocalUser -Password $Password
 Get-LocalUser -Name "Administrator" | Enable-LocalUser
-
-# Turn off UAC prompts
 
 # Set time zone to EST
 Set-TimeZone "US Eastern Standard Time"
