@@ -8,8 +8,20 @@
 # CURRENT: Using the machine closest to me to sort out windows updates.
 # NEXT: try and figure out Dell Command | Update updates next
 
+# plan: have this main script run an updater script 
+# updater should run windows updates with auto restart and everything
+#     it should do this until Get-WUList returns no entries
+# will also need a .bat script to autorun
+# so have this script create the autorunner and run the update script
+# then the autorunner will run the update script again on restart
+# if the update script is run and there are no more updates, have it delete the autorunner
+# and then run this script again
+
 
 # Don't forget to run it as admin ya goof
+
+# prompt to connect ethernet
+Read-Host "Please connect the ethernet cable now"
 
 # After you get on the internet
 
@@ -38,11 +50,14 @@ Expand-Archive -LiteralPath "C:\temp\pshell_wupdate.zip" -DestinationPath "C:\Wi
     # allows the powershell windows update module to be used
 Set-ExecutionPolicy RemoteSigned -Force
 
-    # install all windows updates
-Get-WUList
-Get-WUInstall -AcceptAll -AutoReboot
-    # may have to have some sort of complicated startup looping thing to check for and 
-    # install updates, depends on how many it lets you get at once
+   # install all windows updates by running update.ps1 and creating update.bat
+    # create update.bat    
+New-Item 'C:\Users\city\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\update.bat'
+    # get the path of update.ps1 on the thumb drive
+$workingdirectory = Split-Path -parent $PSCommandPath
+$filepath = $workingdirectory + "\update.ps1"
+    # tell update.bat to start update.ps1 on startup
+Set-Content -Path 'C:\Users\city\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\update.bat' -Value "Powershell.exe -executionpolicy remotesigned -File $workingdirectory"
 
     # set executionpolicy back to Undefined
 Set-ExecutionPolicy Undefined -Force
