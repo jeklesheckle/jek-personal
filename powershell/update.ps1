@@ -6,6 +6,7 @@
 
 $updates = Get-WUList
 
+# "if there are updates"
 If (-NOT ($null -eq $updates)) {
     -Get-WUInstall -AcceptAll -AutoReboot
     # if you get here and you haven't restarted, restart anyway so that the logical flow of the program works

@@ -58,8 +58,8 @@ New-Item 'C:\Users\city\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\St
     # get the path of update.ps1 on the thumb drive
 $workingdirectory = (Get-Item -Path ".\").FullName
 $filepath = $workingdirectory + '\update.ps1'
-    # tell update.bat to start update.ps1 on startup
-Set-Content -Path 'C:\Users\city\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\update.bat' -Value "Powershell.exe -executionpolicy remotesigned -File $workingdirectory"
+    # tell update.bat to start update.ps1 on startup as administrator
+Set-Content -Path 'C:\Users\city\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\update.bat' -Value "powershell -noprofile -command `"&{ start-process powershell -ArgumentList `'-noprofile -file " + $filepath + "`' -verb RunAs)`""
 
     # run update.ps1
     & '.\update.ps1'
