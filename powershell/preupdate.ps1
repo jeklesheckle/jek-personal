@@ -5,6 +5,8 @@ echo "Installing updates. The computer will restart several times during this pr
 # Downloads the WUpdate module from technet
     # create a temp folder in C if one does not exist
 New-Item -Path "C:\" -Name "temp" -ItemType "directory" -ErrorAction SilentlyContinue
+    # change security protocol to allow download (pshell uses 1.0, need 1.2)
+[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
     # download PSWindowsUpdate.zip from technet
 Invoke-WebRequest -Uri "https://gallery.technet.microsoft.com/scriptcenter/2d191bcd-3308-4edd-9de2-88dff796b0bc/file/41459/47/PSWindowsUpdate.zip" -OutFile "C:\temp\pshell_wupdate.zip"
     # extract pshell_wupdate.zip into C:\Windows\System32\WindowsPowerShell\v1.0\Modules
