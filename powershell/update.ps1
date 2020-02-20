@@ -20,6 +20,6 @@ If (-NOT ($null -eq $updates)) {
     # delete updater.bat from its path
     Remove-Item 'C:\Users\city\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\update.bat' -ErrorAction SilentlyContinue
     # run the next script
-    & '.\dell.ps1'
+    # & '.\dell.ps1'
 }
 
