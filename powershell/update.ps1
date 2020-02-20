@@ -21,5 +21,6 @@ If (-NOT ($null -eq $updates)) {
     Remove-Item 'C:\Users\city\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\update.bat' -ErrorAction SilentlyContinue
     # run the next script
     # & '.\dell.ps1'
+    Pause
 }
 
