@@ -6,8 +6,8 @@
 
 
 
-$updates_downloaded = Download-WindowsUpdate
-$updates_installed = Install-WindowsUpdate -AutoReboot
+$updates_downloaded = Download-WindowsUpdate -Force
+$updates_installed = Install-WindowsUpdate -AutoReboot -Force
 
 # "if there are updates"
 If (($null -eq $updates_downloaded) -and ($null -eq $updates_installed)) {

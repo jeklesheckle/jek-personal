@@ -3,6 +3,8 @@
 # Install windows updates
 echo "Installing updates. The computer will restart several times during this process"
 
+    # Install NuGet to get PSWindowsUpdate
+Install-PackageProvider -Name NuGet -MinimumVersion 2.8.5.201 -Force
     # Downloads and installs PSWindowsUpdate using NuGet
 Install-Module -Name PSWindowsUpdate –Force
     # Check to see if it's installed successfully
