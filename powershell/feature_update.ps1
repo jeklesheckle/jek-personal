@@ -9,4 +9,8 @@ $file = "$($dir)\Win10Upgrade.exe"
 $webClient.DownloadFile($url,$file)
 Start-Process -FilePath $file -ArgumentList '/quietinstall /skipeula /auto upgrade /copylogs $dir'
 
+# starts the service, which runs quietly in the background until it's done getting the update ready
+# doesn't seem to be any formal way to interact via the command line with it
+
 # after this is done, see if anything is left over that needs to be cleaned up a la _Windows_FU
+# also see what it does if you run it on an up-to-date system. If "nothing", maybe just run this script at the end of update.ps1

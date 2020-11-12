@@ -9,7 +9,7 @@
 $updates_downloaded = Download-WindowsUpdate -Force
 $updates_installed = Install-WindowsUpdate -AutoReboot -Force
 
-# "if there are updates"
+# "if there are no updates downloaded or installed"
 If (($null -eq $updates_downloaded) -and ($null -eq $updates_installed)) {
     echo "No updates to install."
     # delete updater.bat from its path
