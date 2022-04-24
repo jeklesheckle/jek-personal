@@ -1,0 +1,1 @@
+Found this powershell script for logging pings and ran it for a while because I was having some connection problems. Now I wanna run some statistical analysis on it for funsies.
