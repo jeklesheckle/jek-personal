@@ -1,0 +1,71 @@
+in order to discover, an intelligence must:
+-observe and draw sound hypotheses from observations (that is new, that is fire, that is hot, fire is hot)
+-be able to challenge existing conclusions with new observations (that is fire, that is not hot, .....
+... be able to evaluate multiple possible hypotheses... either that is not fire or fire is not hot or that is not hot)
+
+I saw something I had not seen before
+because I had not seen it before, I asked the human what it was
+the human said it was called fire. I defined fire as being like that thing. traits I observed about it are:
+-the light coming off of it moved and flickered irregularly
+-it was hot, it excited the molecules in the air around it
+-the light coming from it was generally within a particular band of frequencies
+-the human also told me that it arises from a particular chemical chain reaction. I do not know what a chemical chain reaction is, but I will now be able to say that the human told me it causes fire.
+
+key takeaways here:
+-the AGI can classify sensory phenomena as objects based upon their "strangeness"
+-the AGI can compare that new object to its past experience (if the high temp neurons connected to weird movement neurons and particular EMF spectrum range neurons, it might identify the object as familiar to objects they connect to)
+-the AGI has a multitude of sensory apparatus with which to gain information. any time a reading triggers an abnormality detector neuron it begins the process of evaluating if there is something strange happening. if it triggers a familiar phenomenon, that will cause other neurons to fire. e.g. smell of apple pie triggers many other neurons
+-it will seek additional information from elders and will inspect strange things to take down more notes. an AI might have a "strange" reaction to nearby temperature swing and log relevant things as well as irrelevant things like wind speed. It may later draw conclusions from those data once its set grows larger.
+-agi can understand norms and strangeness. it's not constantly running at 100% to understand patterns in the wind around it, it develops an understanding of normal variations in wind and puts thinking about wind on the backburner.
+-I think I can define "thinking" as "taking samples of input compared to past input and projecting what future input will be like, then observing that future input and correcting the projection"
+I think it also has something to do with adjusting output and seeing impact on input, see baby example below
+
+e.g. a baby babbling
+"aaaaaaa"
+>mother does not respond, no significant change in points
+...adjusting sound output
+"maaaaa"
+>mother turns to look, excited. points through the fucking roof.
+....FUCKING DO MORE OF THAT
+"mmmmmmm"
+>mother looks hopeful but has not increased in excitement. points falling off but still very high
+....see about different mmmm stuff
+"m"
+>mother's excitement still high, decreasing
+....okay wait got more points from "maaaaa" let's do that again
+"maaaaa"
+>mother's excitement raises again, points++
+....more...MOREE
+"maaaa maaaa"
+>money shot. mom ecstatic. points for years baby yeeeeeee haaaa
+....I will do this thing all the time forever
+
+baby continues growing. over time baby learns that maaamaaa can be shortened to mama, that mama causes mom to look (baby wants mom to look, does mama thing, mom looks, baby hypothesizes a relationship between the two. continues to happen, hypothesis strengthened into theory). I think human names are separate from the names of other things in our brains. like we call both a person's name and a thing's name a "name", but we don't use them in the same way. I wouldn't say "pliers" and expect my pliers to do anything. I think the confusion between overlapping words in the english language and overlapping concepts in the brain is going to make this a little tricky, but now I can evaluate whether or not I'm conflating the two as a troubleshooting excercise at least.
+
+object recognition is really fucking important into making an AI that's generally useful
+
+what is an object to a human? has a physical border. e.g. the sky and the land, a pair of pliers, my arm
+what is a concept to a human? 
+
+ai must act and observe and draw conclusions and evaluate conclusions 
+
+it's hard modeling this on a human without making a human
+
+
+brute force way to make AI:
+give sensors and actors
+generational AI evolution algorithm
+it can create neurons wired between random sensors and actors and other neurons with random input weights
+eventually the most effective neural network will prevail (presumably there are many such networks)
+
+
+temporal experience:
+-read memory into kernel and understand that it is past
+-read sensor data into kernel and understand that it is present
+-read projected data into kernel and understand that it is future
+
+hardware of a brain:
+
+cpu- processes data
+inputs- sensors
+storage- holds data from past experiences

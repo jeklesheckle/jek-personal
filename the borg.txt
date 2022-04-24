@@ -1,0 +1,24 @@
+borg plan- delay AI work and focus on borg
+
+core idea: enable humans to collaborate towards humanity-level problems for free across the world.
+
+system for assigning tasks
+system for establishing dependencies of tasks
+system for establishing legitimacy of task completion
+system for weeding out annoying wastes of time
+recognize matters of opinion or questions with several answers
+
+pose goals, people present steps
+
+how do I get people to use this? 
+it's free so there's no harm in trying but there is a bit of a hassle in getting "signed up"
+why use this instead of independent research?
+	-get assists from the foremost experts on things
+what about if I lose out on money?
+	-what if people could put bounties on things and pay when they are satisfied with a result.
+bounties are cool but some research requires advance funding. 
+	-I think that can be handled on a per-party basis. If there's someone who wants funding they can request it but that's not really something the site HAS to handle. might be a profit opportunity tho. basically if there is a team ready to work but in need of funding they can just ask for those interested in funding to contact them or redirect to a crowdfunding page
+
+okay this is getting kinda cool but I'm going to need a few hours to work out even a rough design for this. Maybe dedicate a week's time or so and see how we're doing after that. I'm seeing some opportunities for serious monetary flow, which is exciting because I was initially thinking there would be none. at the very least I'll be able to cover expenses for high-quality hosting. 
+
+the addition of expenses does add risks of someone taking the idea. It's cool to be the guy who came up with it but I don't want to be poor if I could have been rich as fuck, so I should take steps to protect the IP.
