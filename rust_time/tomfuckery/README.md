@@ -1,0 +1,20 @@
+### Tomfuckery
+
+A useless name for a (hopefully) useful program.
+  
+#### What's it do?
+Use it to get timestamps in an MKV of particular sounds. Feed in the MKV and the sound (haven't yet decided what format the sound will be). Scans through the file for instances of that sound. Creates a TXT with the timestamps marking the "beginning" of that sound.
+
+#### Sounds fuckin dumb
+Yea but check this: it is. However, it might be useful to some people (me) for feeding in a video pre-editing and finding timestamps for sounds. I was hoping it could also be used for syncing animation and effects to audio. You can pick out the exact frame of a drum hit in your timeline and sync it to a footstep however ya want. 
+
+### Development TODO:
+* [<b>DONE</b>] Make sample MKV file with two audio tracks and a video track
+* Read and print bits of sample MKV file
+  * Just print the whole thing and let it fit to terminal
+* Use that info and the MKV spec (https://docs.fileformat.com/video/mkv/) (https://www.matroska.org/technical/elements.html) to feel your way around
+* Based on that, decide how it might be most practical to identify "sounds" 
+* Create a test that uses a direct copy of the bytes to find sounds
+* Play around with some math libraries or something for more useful, general sound identification
+* Throw together a basic CLI
+* Anything after that is gravy, baby.
