@@ -10,7 +10,7 @@ Yea but check this: it is. However, it might be useful to some people (me) for f
 
 ### Development TODO:
 * [<b>DONE</b>] Make sample MKV file with two audio tracks and a video track
-* Read and print bits of sample MKV file
+* [<b>DONE</b>] Read and print bits of sample MKV file
   * Just print the whole thing and let it fit to terminal
 * Use that info and the MKV spec (https://docs.fileformat.com/video/mkv/) (https://www.matroska.org/technical/elements.html) to feel your way around
 * Based on that, decide how it might be most practical to identify "sounds" 
