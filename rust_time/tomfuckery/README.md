@@ -12,7 +12,10 @@ Yea but check this: it is. However, it might be useful to some people (me) for f
 * [<b>DONE</b>] Make sample MKV file with two audio tracks and a video track
 * [<b>DONE</b>] Read and print bits of sample MKV file
   * Just print the whole thing and let it fit to terminal
-* Use that info and the MKV spec (https://docs.fileformat.com/video/mkv/) (https://www.matroska.org/technical/elements.html) to feel your way around
+* Use that info and the MKV spec (https://tools.ietf.org/id/draft-lhomme-cellar-matroska-04.html) (https://datatracker.ietf.org/doc/html/rfc8794) (https://docs.fileformat.com/video/mkv/) (https://www.matroska.org/technical/elements.html) to feel your way around
+  * LINE 4 SAYS "matroska" :DDDDDDD
+  * first four octets are the master element ID 0x1A45DFA3
+  * Subtask: print bytes as hexadecimal (big-endian)
 * Based on that, decide how it might be most practical to identify "sounds" 
 * Create a test that uses a direct copy of the bytes to find sounds
 * Play around with some math libraries or something for more useful, general sound identification
