@@ -22,7 +22,7 @@ fn main() {
             maybe_newline = "\n".to_string();
         }
         match byte {
-            Ok(lil_byte) => bytey = bytey + "[" + &lil_byte.to_string() + "]\t" + &maybe_newline,
+            Ok(lil_byte) => bytey = /*bytey + "[" + &lil_byte.to_string() + "]\t" + &maybe_newline,*/ format!("{}[{:#010b}]\t{}", bytey, &lil_byte, &maybe_newline),
             Err(error) => panic!("Problem with byte: {:?}", error),
         };
         counter += 1;

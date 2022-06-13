@@ -9,7 +9,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220601T184000Z
 DTEND;VALUE=DATE-TIME:20220601T185500Z
 DTSTAMP:20220602T13450010800
-UID:f94d6f6740c04cb8d404104d8f24b08c@bitrix
+UID:db2c759c65ee68e656c9fcc5f9d90b27@bitrix
 SUMMARY:Outbound call 90meter Inc.
 DESCRIPTION:Spoke to Matt Vanselow.\nsells a lot to government, middleware for classification onto a classified network. if you have sipper?. Main product is Smartcard manager / card issuance workstation. PKI? Middleware (also have non-classified stuff). We've been bidding a lot lately so they noticed us. Will receive an email from him with product info, expected to reply with info on possibly talking more and maybe meeting in CA.
 
@@ -22,7 +22,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220601T200500Z
 DTEND;VALUE=DATE-TIME:20220601T200600Z
 DTSTAMP:20220602T13450010800
-UID:04f73d3bdcf111d1a84e996baad9b4d9@bitrix
+UID:c4023fa6b274da7f2d53e1f920f1fb3c@bitrix
 SUMMARY:Outbound call A Cloud Guru
 DESCRIPTION:No response
 
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220601T201000Z
 DTEND;VALUE=DATE-TIME:20220601T202000Z
 DTSTAMP:20220602T13470010800
-UID:3fb736f9ae512c9e1386401f0e189ace@bitrix
+UID:11607f0ec393371f4c00333265da969b@bitrix
 SUMMARY:Outbound call AbacusNEXT
 DESCRIPTION:Spoke to Scott Meyers.\nGovernment-specific: HotDocs. Takes Word documents and makes templates out of them. Insurance and banking / governments. Good for filling out the same documents on a regular basis. Easy to change and update. Best for formal, legal-esque stuff. Doesn't have a partner program or anything. Familiar with us. He's normally the guy we'd work with. Shaz / Norman. Global company, no particular office in the region. HQ in San Diego. He's in Utah. \nLikes virtual work.\nShoot him an email so he has your contact.
 
@@ -48,7 +48,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220601T204500Z
 DTEND;VALUE=DATE-TIME:20220601T204600Z
 DTSTAMP:20220602T13260010800
-UID:1ff5799ad9dc4820045518887efbc7b3@bitrix
+UID:6b944c33803f6e5c08b47899fe7a9f4c@bitrix
 SUMMARY:Outbound call Acces I/O Products Inc.
 DESCRIPTION:No response
 
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220601T204500Z
 DTEND;VALUE=DATE-TIME:20220601T204600Z
 DTSTAMP:20220602T13480010800
-UID:5ff993bfc12576181bf252865382d502@bitrix
+UID:11408366278d06a0472133470eebf6fe@bitrix
 SUMMARY:Outbound call achieveit
 DESCRIPTION:No response
 
@@ -74,7 +74,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220601T191000Z
 DTEND;VALUE=DATE-TIME:20220601T192000Z
 DTSTAMP:20220602T13500010800
-UID:07fdf2058a8d48b98654d486fea6a582@bitrix
+UID:85fe77dc77a312067a0e5d95e852f4a7@bitrix
 SUMMARY:Outbound call PROLINE
 DESCRIPTION:Val in sales responded to call, sent me over to Bob (her supervisor). \nThey don't have any sort of partner program but we can open an account with them to get perks and discounts on purchases that might increase our margins. \nWe worked for a while to find the order number relating our companies from the RFQ. We had apparently started to set up an account with them at some point but had not finished. \nThey have a guy from Georgia who sometimes comes up near DC if we were interested in meeting. Kevin Wall.
 
@@ -87,7 +87,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220601T195000Z
 DTEND;VALUE=DATE-TIME:20220601T195100Z
 DTSTAMP:20220602T13440010800
-UID:aa4ecba30c352ebdbecd1abec8c95f91@bitrix
+UID:942e0da4fde5b40ddc84805cd530f2fc@bitrix
 SUMMARY:Outbound call 45Drives
 DESCRIPTION:No response
 
@@ -100,7 +100,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220601T202500Z
 DTEND;VALUE=DATE-TIME:20220601T203300Z
 DTSTAMP:20220602T13350010800
-UID:a77b0f26b417275454b13e71016f5eaf@bitrix
+UID:582cab1060e03157d1fc7079a70a3717@bitrix
 SUMMARY:Outbound call ABMX Servers
 DESCRIPTION:John responded to the call. Ryan no longer works there.\nABMX sells servers and fully-assembled systems. \nLast sale in July of last year. Don't really do lead generation / contract stuff. Lead generation from Google, sales from pre-existing clients. CA-based. CA team can reach out via same contacts. \nContact: Same number (sales/support line). john@abmx.com\nSome other guy named Alan answers this line.
 
@@ -113,7 +113,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220601T193500Z
 DTEND;VALUE=DATE-TIME:20220601T193600Z
 DTSTAMP:20220602T13490010800
-UID:440cbefce3ebca9e85bd781a06c2e78b@bitrix
+UID:d6d63e3ffc3ee1d714848f9d0ae8018a@bitrix
 SUMMARY:Outbound call A&J Manufacturing Company
 DESCRIPTION:No response
 
@@ -126,7 +126,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220601T195500Z
 DTEND;VALUE=DATE-TIME:20220601T200000Z
 DTSTAMP:20220602T13490010800
-UID:3bbda57373c3f5d5fa367e5247913e19@bitrix
+UID:ba0f8cabb288062158cfc13c21f05883@bitrix
 SUMMARY:Outbound call Guardian Safety
 DESCRIPTION:James Guerrero answered the phone. EnviroSafety is a child company of Guardian Safety.\nIn CA. Discussed an email and where we might like to meet in the future. His email is jguerrero@envirosafety.com.
 
@@ -139,7 +139,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220601T190500Z
 DTEND;VALUE=DATE-TIME:20220601T190800Z
 DTSTAMP:20220602T13500010800
-UID:4e7aef06675c696520eea1716880deb3@bitrix
+UID:eea538f340e020b8a0f20793a337fcce@bitrix
 SUMMARY:Outbound call Merlin Cyber
 DESCRIPTION:Says she is very busy. Set task to call again next week.
 
@@ -152,7 +152,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220602T151500Z
 DTEND;VALUE=DATE-TIME:20220602T152000Z
 DTSTAMP:20220602T17570010800
-UID:d79451489f49507645840742db541e24@bitrix
+UID:bc1ff4af33d73c8db5785a6d3ca31719@bitrix
 SUMMARY:Outbound call AC General Inc.
 DESCRIPTION:Called, ran into some trouble with their robot answering machine. Got on the line with a guy who didn't want to give me his name. Mentioned some past business we had and asked if he had time. He seemed to be alright with proceeding with the call. He got another call, put me on hold for a few seconds and then hung up on me. \nDuring the call I was able to figure out they apparently normally do their own sales and don't work with distributors. Perhaps this is a change from what they did in the past?
 
@@ -165,7 +165,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220602T153500Z
 DTEND;VALUE=DATE-TIME:20220602T153800Z
 DTSTAMP:20220602T15370010800
-UID:112fd8332c47662768b0d1967e597d3a@bitrix
+UID:fa28927e83b6dd24c7f7d6d7dd07e0b3@bitrix
 SUMMARY:Outbound call Daisy Data Displays
 DESCRIPTION:No response, left a voicemail with Karyn requesting that she call back or email me to schedule a time to talk.
 
@@ -178,7 +178,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220602T155500Z
 DTEND;VALUE=DATE-TIME:20220602T155800Z
 DTSTAMP:20220602T16020010800
-UID:caf69f8b2cb5289049659418ddf3cb12@bitrix
+UID:9979b0ecb5becbcca8dd4103c5c907e0@bitrix
 SUMMARY:Outbound call Exxact Corporation
 DESCRIPTION:Called and got Mike directly. He said he was having trouble understanding me and asked if I would email him. mike@exxactcorp.com.
 
@@ -191,7 +191,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220602T185000Z
 DTEND;VALUE=DATE-TIME:20220602T185800Z
 DTSTAMP:20220602T18530010800
-UID:2eea4b4f57badadfb5be12de34201df4@bitrix
+UID:a59f30d6d84459d19065c331cdafa4fd@bitrix
 SUMMARY:Outbound call InnovMetric
 DESCRIPTION:I was able to reach Joelle by dialing 254 (I believe her extension was 419). She directed me to info@innovmetric.com for more information and said that we should be able to ask for additional information on quotes by responding to the email that provided the quote.
 
@@ -204,7 +204,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220602T194000Z
 DTEND;VALUE=DATE-TIME:20220602T194400Z
 DTSTAMP:20220602T19470010800
-UID:6a50fb0d0ab2aeb4e756753dccf0fa95@bitrix
+UID:d099ce21a7c9c0e0407fd9d2647859ec@bitrix
 SUMMARY:Outbound call Lookout
 DESCRIPTION:Called and quickly got Mike's voicemail. Left a message requesting that he call or email me back so that I could get more information about Lookout.
 
@@ -217,7 +217,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220602T195500Z
 DTEND;VALUE=DATE-TIME:20220602T195900Z
 DTSTAMP:20220602T20000010800
-UID:4a7b557cb7dbce78d2f05642bc2f7f41@bitrix
+UID:5242b3fc2eab3021a05da4669ad7a077@bitrix
 SUMMARY:Outbound call Nova Power Solutions
 DESCRIPTION:Betsy answered my call. She said that they are only willing to sell through a distributor like us in the event that the customer has to make a purchase through SEWP, as they do not hold a SEWP contract. However, in that event, they are completely open to doing business through us.
 
@@ -230,7 +230,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220602T201000Z
 DTEND;VALUE=DATE-TIME:20220602T201400Z
 DTSTAMP:20220602T20140010800
-UID:31f619c61f9f8a444bd34ae8039000b8@bitrix
+UID:48a7dc3e924d3f6b2268bc2f5b8789ea@bitrix
 SUMMARY:Outbound call Orbit Analytics
 DESCRIPTION:No response, left a voicemail requesting he get in touch so that I can learn more about Orbit.
 
@@ -243,7 +243,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220602T202000Z
 DTEND;VALUE=DATE-TIME:20220602T202600Z
 DTSTAMP:20220602T20300010800
-UID:27aa2e70effae3bfeef7fbb468305128@bitrix
+UID:9c41efceb380804bb2a71782d39e91d8@bitrix
 SUMMARY:Outbound call Time Machines Corp
 DESCRIPTION:Godfrey picked up on the sales team.\nTime servers, NTP clocks (get time from timeservers POE/Wifi). Good for synchronized clocks. Timeservers are nice for isolated networks that can't contact an outside timeserver. 5% off for 5+, 10+ = 10%. \nThey don't have any kind of partnership discount, just the volume discounts shown above. Seems like we might have trouble using it but maybe if we had a bunch of different customers who needed a pair of timeservers it could work out.
 
@@ -256,7 +256,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220603T165500Z
 DTEND;VALUE=DATE-TIME:20220603T165900Z
 DTSTAMP:20220603T17000010800
-UID:9a64e2eb155ecf95e7a86d141a02829e@bitrix
+UID:26e060a7a9fee06541ee4e8f82700099@bitrix
 SUMMARY:Outbound call AC General Inc.
 DESCRIPTION:No response, got to Sandy's voicemail. Left a message requesting she get back to me at her earliest convenience so that I could learn more about AC General.
 
@@ -269,7 +269,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220603T170500Z
 DTEND;VALUE=DATE-TIME:20220603T170900Z
 DTSTAMP:20220603T17110010800
-UID:464896e04ded2537ea48371152ffe0cc@bitrix
+UID:1c72f5a5a3377c30d8531e7a00b5f2fe@bitrix
 SUMMARY:Outbound call Acopian
 DESCRIPTION:I called, got a nice woman on the sales team. She said they generally do direct sales, so I assume we work together only for federal customers. They have no partner program and do not generally do discounts.
 
@@ -282,7 +282,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220603T171500Z
 DTEND;VALUE=DATE-TIME:20220603T171900Z
 DTSTAMP:20220603T17250010800
-UID:5253537bb20446db00f12c1c5e4ba602@bitrix
+UID:149dd6c7b6075a21f3c0a29829befcc1@bitrix
 SUMMARY:Outbound call ATI Systems Acoustic Technology Inc.
 DESCRIPTION:I tried to call Antonio's desk, and his mobile and got voicemail. I also tried to reach their sales team, which resulted in their robot hanging up on me, and their receptionist, which also immediately ended the call. Finally, I left a voicemail with Antonio requesting that he get in touch regarding his business.
 
@@ -295,7 +295,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220603T173000Z
 DTEND;VALUE=DATE-TIME:20220603T173400Z
 DTSTAMP:20220603T17320010800
-UID:04cbd0aef09f3802b76c77cf47383bbe@bitrix
+UID:caf655ed85f2963835492095008bd210@bitrix
 SUMMARY:Outbound call Acquia
 DESCRIPTION:No response. Left a voicemail with Joe requesting that he call me or email me.
 
@@ -308,7 +308,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220603T173500Z
 DTEND;VALUE=DATE-TIME:20220603T174000Z
 DTSTAMP:20220603T17430010800
-UID:1ddef8eb0ae75153f734335163d64dec@bitrix
+UID:621f2bd6ecaf626c8b40ca442a02f9e3@bitrix
 SUMMARY:Outbound call Acroname
 DESCRIPTION:Got Lance, he railroaded the call and said he'd send me some contacts. Why I would want those remains to be seen, but I was a little too afraid of being impolite. Seems like they might have some helpful products to know, particularly their managed USB hubs. Sent him an email, will update with the response.
 
@@ -321,7 +321,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220603T175000Z
 DTEND;VALUE=DATE-TIME:20220603T175400Z
 DTSTAMP:20220603T17520010800
-UID:f69bc100dc959605739c9118cc273fc6@bitrix
+UID:3726e78691fbb185b97a04d367ec1a1f@bitrix
 SUMMARY:Outbound call Acronis SCS
 DESCRIPTION:No response, left a voicemail with Starr requesting that she get in touch.
 
@@ -334,7 +334,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220603T175500Z
 DTEND;VALUE=DATE-TIME:20220603T180000Z
 DTSTAMP:20220603T18000010800
-UID:cf64ab430b2a72227cd9eb8b8d1069ed@bitrix
+UID:e62173219cfcfbae8d3f5a5e0caf6990@bitrix
 SUMMARY:Outbound call Actionable Intelligence Technologies Inc.
 DESCRIPTION:I called their office number and pressed 1 to talk to sales, which directed me to Susan's full voice mailbox. I tried her cell and got her at the grocery store, so we decided I should call back on Monday. Setting a task for that.
 
@@ -347,7 +347,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220603T181500Z
 DTEND;VALUE=DATE-TIME:20220603T181900Z
 DTSTAMP:20220603T18190010800
-UID:c782f880b8fcdab2315cb2d37361992f@bitrix
+UID:5518d5bfee9894b3a49d9a9923507b17@bitrix
 SUMMARY:Outbound call ActivePDF
 DESCRIPTION:No response, got their sales team's voicemail. I'll call back another time.
 
@@ -360,7 +360,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220603T182500Z
 DTEND;VALUE=DATE-TIME:20220603T182900Z
 DTSTAMP:20220603T18270010800
-UID:93fd6d80cdc2f2e2b43020c041bc5c0d@bitrix
+UID:1ec0979789e792b4727c0f5c1d6872be@bitrix
 SUMMARY:Outbound call ActiveState Software
 DESCRIPTION:Tried to call them. Their sales line redirects to a message asking you to use their website. Tried getting Tom (Thomas?) directly using their directory and had no luck with that.\nIf you're reading this while sending out emails, send these guys an email or just use their website.
 
@@ -373,7 +373,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220603T183500Z
 DTEND;VALUE=DATE-TIME:20220603T184600Z
 DTSTAMP:20220603T18420010800
-UID:b6ff7c695cf3fa37e7d3f3030e701ccf@bitrix
+UID:4246c154b475448d64667c2bc6afc6a8@bitrix
 SUMMARY:Outbound call ActivePDF
 DESCRIPTION:Got Cherise.\nWebgrabber lets you take HTML and convert it into a PDF.\nToolkit, like a swiss army knife for PDFs. Basically an API for PDF documents.\nTwo license models: standard production (1 license = 1 activation, activate various installations on various servers), developer program (test & dev only, sold by user). These are term-based licenses.\nThey have (ablegov? insight?).
 
@@ -386,7 +386,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220606T165500Z
 DTEND;VALUE=DATE-TIME:20220606T170000Z
 DTSTAMP:20220606T16570010800
-UID:28bebfe61beb05a7e1b63f22a6a4a867@bitrix
+UID:68e8098380c23523b2758244582c2164@bitrix
 SUMMARY:Outbound call ActualMetrics
 DESCRIPTION:Called, got Mike. He said they don't have any partnership program or increased discount. He was also unwilling to discuss their software or additional add-ons that might compliment their products. He said that the customer usually shops directly with them and uses the contract vehicles only for payment.
 
@@ -399,7 +399,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220606T170500Z
 DTEND;VALUE=DATE-TIME:20220606T171000Z
 DTSTAMP:20220606T17070010800
-UID:7fe296e2a2585c7f58bfc4d19ec0cc7a@bitrix
+UID:a192d0e5fd7901391123a7d46fabab98@bitrix
 SUMMARY:Outbound call Adaptiva
 DESCRIPTION:Called Doug, got an automated text response stating he was busy. I will call him back later today.
 
@@ -412,7 +412,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220606T171000Z
 DTEND;VALUE=DATE-TIME:20220606T171500Z
 DTSTAMP:20220606T17370010800
-UID:4f348f6534eede38e0cec843f22b5818@bitrix
+UID:c9f5e4acfcba90139e4bb5d4ec710bb1@bitrix
 SUMMARY:Outbound call Actionable Intelligence Technologies Inc.
 DESCRIPTION:Called her work phone (voicemail still full). Called her call, got her with a spotty connection. She wanted me to send her an email.
 
@@ -425,7 +425,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220606T174000Z
 DTEND;VALUE=DATE-TIME:20220606T174500Z
 DTSTAMP:20220606T17500010800
-UID:4ff846519293ca1a210fc0eeba9f0c20@bitrix
+UID:5ffe87f84fdd6c83061506e84c38368b@bitrix
 SUMMARY:Outbound call JB&A Distribution
 DESCRIPTION:Called and left a message with a receptionist, expecting a call back from Rich.
 
@@ -438,7 +438,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220606T180000Z
 DTEND;VALUE=DATE-TIME:20220606T180400Z
 DTSTAMP:20220606T18050010800
-UID:0ba26a1896fd18cd350a218396e295b0@bitrix
+UID:b34f90d1b1ad290a15cff266caaa1067@bitrix
 SUMMARY:Outbound call AddOn Networks
 DESCRIPTION:Lifetime guarantee on all products return or replacement. 24/7 customer service. OEM.. Patrick.buchanan@addonnetworks.com.
 
@@ -451,7 +451,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220606T060500Z
 DTEND;VALUE=DATE-TIME:20220606T061000Z
 DTSTAMP:20220606T18140010800
-UID:558da590410438be8c8d95f476630b87@bitrix
+UID:e5b05307ad96d05e634ee82bbce3519f@bitrix
 SUMMARY:Outbound call JB&A Distribution
 DESCRIPTION:Got a call back from Rich. Explained that JB&A went through a merger with Exertis, gave me an updated email, and said he'd sent me over a pricing guide.\nAlso said that they support a ton of brands and that it's not uncommon for people on our team to just send him RFQs to see if he can make an offer on any of the products. Also offered to send me over a pricing guide. Super helpful guy, definitely going to call whenever he might be able to do something.
 
@@ -464,7 +464,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220606T183000Z
 DTEND;VALUE=DATE-TIME:20220606T183500Z
 DTSTAMP:20220606T18340010800
-UID:6d33d4c6329e272f23ca91c60800dd67@bitrix
+UID:3da5f813bc120992788eb8804b015abc@bitrix
 SUMMARY:Outbound call PROVANTAGE LLC
 DESCRIPTION:ProVantage is a reseller (not technically a distributor). Sell office supplies, IT stuff, Microsoft licenses.
 
@@ -477,7 +477,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220606T185000Z
 DTEND;VALUE=DATE-TIME:20220606T185300Z
 DTSTAMP:20220606T18550010800
-UID:6c4be688d624d7a5658fd9cf7869251e@bitrix
+UID:52dbac18b68ebd8d10750d21b1ebb343@bitrix
 SUMMARY:Outbound call Adesso
 DESCRIPTION:Got Sarah's voicemail, left a message with her stating I would send her an email (her recording said that was her preferred way to communicate).
 
@@ -490,7 +490,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220606T191000Z
 DTEND;VALUE=DATE-TIME:20220606T191300Z
 DTSTAMP:20220606T19160010800
-UID:eee1cb1dbca102feea13d5fd2c6e32eb@bitrix
+UID:29a09b8ad31ee6705910638900d0310e@bitrix
 SUMMARY:Outbound call ADF Solutions Inc.
 DESCRIPTION:Called, left a voicemail. Sending voicemail follow-up email.
 
@@ -503,7 +503,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220606T210000Z
 DTEND;VALUE=DATE-TIME:20220606T210300Z
 DTSTAMP:20220606T21040010800
-UID:8b4721af6cca8ad324bf80de1c3d6f00@bitrix
+UID:1eb1a0b4280d1be25ce584ebecb4f020@bitrix
 SUMMARY:Outbound call Adlib Software
 DESCRIPTION:Left a voicemail with Peter
 
@@ -516,7 +516,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220606T211000Z
 DTEND;VALUE=DATE-TIME:20220606T211200Z
 DTSTAMP:20220606T21120010800
-UID:0be5b05db4808cacabb4a7a53dee2935@bitrix
+UID:bad556131550f82cb3042300bbe91b3d@bitrix
 SUMMARY:Outbound call Eric Burnham
 DESCRIPTION:Called, closed for a "holiday". Reopen tomorrow. Will set task to call then.
 
@@ -529,7 +529,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220606T211500Z
 DTEND;VALUE=DATE-TIME:20220606T212000Z
 DTSTAMP:20220606T21210010800
-UID:84b8262f09c0b0a81af85e9ecf09267d@bitrix
+UID:6c25b6d715fb732d0daa5cfdcfc33da7@bitrix
 SUMMARY:Outbound call Solid IT Networks
 DESCRIPTION:HP, Juniper, Extreme, ADVA, Solid IT services, they can do installs and stuff.\nShe strongly prefers to work in specifics so I'm having a hard time getting info from her.\nThey do have their own contracts but sometimes we work with them on contracts they do not have.
 
@@ -542,7 +542,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220607T170000Z
 DTEND;VALUE=DATE-TIME:20220607T172100Z
 DTSTAMP:20220607T17240010800
-UID:e1c58a5e0d9c58f70a98cbc685b12f2b@bitrix
+UID:9df80d7e063aad3cff30757de0d4cda6@bitrix
 SUMMARY:Inbound call Adesso
 DESCRIPTION:Phil Swift got in touch regarding Adesso and their TAA compliant products.\nstarted about 27 years ago as kb/mouse mfer\nmostly peripherals / accesories\nbig thing was work from anywhere essentials \ngot into TAA compliant stuff from SMKlink\nstarted with mouse and keyboard,\nnow they offer a stock of TAA compliant webcams\nthey can make anything TAA compliant as long as it's 3-5k units/year\nproduce out of Taiwan\nthey can get lots of stuff made, generally peripheral equipment\nergonomic, antimicrobial. do a lot of OEM work.\ndo some work for Staples\noffer adjustable FOV stuff\nworking on face tracking / windows Hello next quarter\nselling mostly the mouse and keyboard in the document he sent over\nUSB-C hubs\nplanning on including usb-c adapter with smart card readers\nthey do have POS scanners\nphil manages synnex and can provide special pricing through them for us\nthey do have non-TAA stuff that they can offer\nwilling to send over samples\nif we have opportunities, send an email to phil (they have deal reg sheets). include company, # products, and timeline.\nphil doesn't manage ingram micro, he says we would probably get the best pricing from td synnex 5-10% discount (always some discount through him)\ncurrent keyboard is membrane (w/ card reader)\nthey have tons of inventory because they order tons at a time\ndeal registration form requested\nhe's in CA so before noon PST you can get a quote\ntheir ergo kbs and mice are on clearance essentially (maybe higher discount?)
 
@@ -555,7 +555,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220607T173500Z
 DTEND;VALUE=DATE-TIME:20220607T173900Z
 DTSTAMP:20220607T17460010800
-UID:b73ffae53cf259db9e560fe83c7fd7a0@bitrix
+UID:880702f39e176c3d305a26cdde8f65ce@bitrix
 SUMMARY:Outbound call Adorama Business Solutions
 DESCRIPTION:Was on hold for 10 minutes and decided that was long enough. Couldn't get to Eric via his extension either. Will call again tomorrow.
 
@@ -568,7 +568,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220607T175000Z
 DTEND;VALUE=DATE-TIME:20220607T175300Z
 DTSTAMP:20220607T17520010800
-UID:4a78dee297f7977210eda17311461394@bitrix
+UID:c2b0d95177d4a4602ae715c84320725e@bitrix
 SUMMARY:Outbound call Adaptiva
 DESCRIPTION:Called again, got voicemail right away again. Will shoot him the voicemail email.
 
@@ -581,7 +581,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220607T175500Z
 DTEND;VALUE=DATE-TIME:20220607T180500Z
 DTSTAMP:20220607T18060010800
-UID:f8d9405c00e4f61a0d26cc9e1c67ad0d@bitrix
+UID:99ebcbab37dbb4fd258bb5936f2f4cd1@bitrix
 SUMMARY:Inbound call Advanced HPC
 DESCRIPTION:Alex called back while I was on the line with someone else on his sales team who knew less about the federal side.\nPartner with (Bluetech?).\nHe said he'd send me over his line card and capability statement. I said that would be hunky dory.
 
@@ -594,7 +594,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220607T181000Z
 DTEND;VALUE=DATE-TIME:20220607T181300Z
 DTSTAMP:20220607T18150010800
-UID:6227ed5bd9404b9e4ea025c472f30312@bitrix
+UID:3da92ef830002a244a2dbc8ff419aa36@bitrix
 SUMMARY:Outbound call Advanced Programs Inc.
 DESCRIPTION:Called, got voicemail, sending voicemail email.
 
@@ -607,7 +607,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220607T190000Z
 DTEND;VALUE=DATE-TIME:20220607T191000Z
 DTSTAMP:20220607T19130010800
-UID:87b239ca51d18020dcfae853f943e846@bitrix
+UID:8142cc634ffcb942d5cdab0205ae0179@bitrix
 SUMMARY:Outbound call Advaned Simulation Technology Inc.
 DESCRIPTION:Called and got Liz. She told me that they offer the same prices to resellers as they offer for direct sales so they generally end up getting their own sales unless it has to go through some vehicle like SEWP.\nThey sell audio equipment for simulation and have software to provide audio for that purpose as well.
 
@@ -620,7 +620,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220607T193500Z
 DTEND;VALUE=DATE-TIME:20220607T194000Z
 DTSTAMP:20220607T19390010800
-UID:e37dd8331979689dca5621000e5583c4@bitrix
+UID:9eddc65b12d61b02d81df6458a85223f@bitrix
 SUMMARY:Outbound call AEA Technology Inc.
 DESCRIPTION:They work with some other distributors listed on their website.\nEssentially they sell test equipment for RF and wired electronic devices.\nGeorge was not particularly eager to field my call and directed all of my inquiries to their website.
 
@@ -633,7 +633,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220607T194500Z
 DTEND;VALUE=DATE-TIME:20220607T195100Z
 DTSTAMP:20220607T19510010800
-UID:6433ead82e71c6dce5f73c2189d54220@bitrix
+UID:7a24af2d9cf6d1f300d0b2c794a162e1@bitrix
 SUMMARY:Outbound call Aechelon Technology
 DESCRIPTION:Got to Dennis.\nOn contract with us for support to Hill AFB. \nAechelon primarily builds image generators and provides visual databases for flight sims. Most of their work has to do with the DOD. AF, Marines, Homeland Sec, etc. They have contracts and do direct sales abroad.\nOffice in KC, HQ ??, Office Orlando.\nAlso provide integration support for these products. Also have Unified Storage Support?\nImage generator: simulates the avionics components and flight controls. Image generator provides all "out-the-window" visuals.\nGood guy.
 
@@ -646,7 +646,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220607T200000Z
 DTEND;VALUE=DATE-TIME:20220607T200600Z
 DTSTAMP:20220607T20090010800
-UID:dedd052fc26ca9a8e34671b74179b24a@bitrix
+UID:618800bc2eff51cc294f360d8f15f8d2@bitrix
 SUMMARY:Outbound call Aeronix
 DESCRIPTION:Called Tony, got a full mailbox. Called their receptionist and got redirected to Mr. Wheeler who was in purchasing (I asked for sales). He said he couldn't answer my questions but he was willing to help me find someone who could. Gave me his email (kwheeler@aeronix.com) so he could send me Tony's schedule for a call back.
 
@@ -659,7 +659,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220607T202500Z
 DTEND;VALUE=DATE-TIME:20220607T203000Z
 DTSTAMP:20220607T20260010800
-UID:334fbebd4cf72baf2c1ce38d6c5cef3f@bitrix
+UID:c297d4a95968d4b509992a9defcf0869@bitrix
 SUMMARY:Outbound call AFL Global
 DESCRIPTION:Called both numbers, left a voicemail on his mobile.
 
@@ -672,7 +672,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220607T204500Z
 DTEND;VALUE=DATE-TIME:20220607T204800Z
 DTSTAMP:20220607T20480010800
-UID:c5e5c80d17a3d366de2d4641662b26c6@bitrix
+UID:e5c629b659a2f31bf6952b3a512eab41@bitrix
 SUMMARY:Outbound call ANIXTER
 DESCRIPTION:Left voicemail.
 
@@ -685,7 +685,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220608T165000Z
 DTEND;VALUE=DATE-TIME:20220608T165100Z
 DTSTAMP:20220608T16510010800
-UID:3ea3daa797b77c9ad50ff45af1026ac9@bitrix
+UID:baddc97cda1a9d7639efd737bcac974e@bitrix
 SUMMARY:Outbound call Jose Torres
 DESCRIPTION:Called and immediately got voicemail, going to try again tomorrow to see if that's part of their system or a coincidence.
 
@@ -698,7 +698,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220608T170000Z
 DTEND;VALUE=DATE-TIME:20220608T170400Z
 DTSTAMP:20220608T16580010800
-UID:db0ca64014c5fed2bd0e4303591cecce@bitrix
+UID:cc47c40e2dada2c43f6f8ccdf229fd96@bitrix
 SUMMARY:Outbound call AgilQuest
 DESCRIPTION:Left a voicemail and sent the voicemail email
 
@@ -711,7 +711,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220608T170000Z
 DTEND;VALUE=DATE-TIME:20220608T170300Z
 DTSTAMP:20220608T17030010800
-UID:9db20d586e5168ee7c67ed7eaa7a04b2@bitrix
+UID:95182181210a92ab43467ea937961cac@bitrix
 SUMMARY:Outbound call Aginity
 DESCRIPTION:Voicemail.
 
@@ -724,7 +724,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220608T171000Z
 DTEND;VALUE=DATE-TIME:20220608T171300Z
 DTSTAMP:20220608T17090010800
-UID:3834e2263fe27d031c4d99168ef515ec@bitrix
+UID:0299303cac3dc1bc40e40e3531591013@bitrix
 SUMMARY:Outbound call AgreeYa Solutions
 DESCRIPTION:Immediate voicemail. Left a message.
 
@@ -737,7 +737,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220608T171000Z
 DTEND;VALUE=DATE-TIME:20220608T171500Z
 DTSTAMP:20220608T17150010800
-UID:f65a4e187b9dc3de2075b98f9b591e1a@bitrix
+UID:0537ac7ffbd64b32e9b7eb3f2b7c6fb7@bitrix
 SUMMARY:Outbound call AINS
 DESCRIPTION:Voicemail on 2nd number.
 
@@ -750,7 +750,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220608T172000Z
 DTEND;VALUE=DATE-TIME:20220608T172400Z
 DTSTAMP:20220608T17220010800
-UID:926e969f64cde35f6ed642d6ec727ac8@bitrix
+UID:4846508491cc1c268e3b757a13b96174@bitrix
 SUMMARY:Outbound call AIPHONE
 DESCRIPTION:Voicemail on second number.
 
@@ -763,7 +763,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220608T172500Z
 DTEND;VALUE=DATE-TIME:20220608T173400Z
 DTSTAMP:20220608T17310010800
-UID:e524fcc5a0a458813981d02fdc622bdd@bitrix
+UID:8d996c3a297d19f3d1253e5774f7084c@bitrix
 SUMMARY:Outbound call AINS
 DESCRIPTION:FOIAXpress lets the government collect, process, and track FOIA reports from the public. (Freedom of information act). So they help redact documents for public release. \nThey also have case management software (HR apps) like ER/LR, performance management, general HR stuff. \neCase has apps built onto it, it's the main thing that this other stuff (except the FOIA stuff) is a part of. OIG audit software. \nThey have a partner program. Looking for partners that might be able to do installs or make apps on top of their platform (eCase).\nTheir website has lots of other juicy stuff I'll add in here.
 
@@ -776,7 +776,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220608T173500Z
 DTEND;VALUE=DATE-TIME:20220608T174500Z
 DTSTAMP:20220608T17460010800
-UID:8719cf71c7aa01982c0c9ad87b11a3aa@bitrix
+UID:b8370eeb3a63eaabbd5012d9b20e0f2c@bitrix
 SUMMARY:Outbound call AJ's Power Source Inc.
 DESCRIPTION:They do power supplies. They're an OEM. Power distribution, inverters, etc. Up to around 3k watts. Backups.\nSell directly to the government a lot. A majority of the time it goes through some contract and they don't have a lot of contracts like SEWP.\nWWT ADS and us usually buy through them. They do through DLA?\nnigel@ajpowersupply.com was who I was talking to, VP of "sales" (don't remember what he called it but it was sales)
 
@@ -789,7 +789,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220608T175500Z
 DTEND;VALUE=DATE-TIME:20220608T175900Z
 DTSTAMP:20220608T17580010800
-UID:8bc6b46bdcbf50424a3aaa083e36229d@bitrix
+UID:e939b1b148685186207866bec2c8c883@bitrix
 SUMMARY:Outbound call Peerless-AV
 DESCRIPTION:Voicemaaaail.
 
@@ -802,7 +802,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220608T180000Z
 DTEND;VALUE=DATE-TIME:20220608T180500Z
 DTSTAMP:20220608T18050010800
-UID:09067989695d337d643f49952efee14e@bitrix
+UID:f2a2493e06a97b07c2a8507968d637eb@bitrix
 SUMMARY:Outbound call AJA Video Systems
 DESCRIPTION:Tracy says the territory manager could qualify us as a reseller. \nDan Wingard danw@aja.com is territory mgr 678 823 2909.\nGonna create a contact for Dan and shoot him a call.
 
@@ -815,7 +815,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220608T180500Z
 DTEND;VALUE=DATE-TIME:20220608T180800Z
 DTSTAMP:20220608T18090010800
-UID:97e6335912d9503419fbaf56f4d501c5@bitrix
+UID:292fea5ef2cb26129a06044c5d0a55d6@bitrix
 SUMMARY:Outbound call AJA Video Systems
 DESCRIPTION:Shot a voicemail out to Dan. Thanks Dan.
 
@@ -828,7 +828,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220608T183500Z
 DTEND;VALUE=DATE-TIME:20220608T183800Z
 DTSTAMP:20220608T18350010800
-UID:0f059571194ea685f394c943e29ebf17@bitrix
+UID:3dff2b81dfdaae8aa0bc8c07cc319fc6@bitrix
 SUMMARY:Outbound call Vertosoft
 DESCRIPTION:Voooicemaaaaiiiiiilll.
 
@@ -841,7 +841,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220608T184000Z
 DTEND;VALUE=DATE-TIME:20220608T184600Z
 DTSTAMP:20220608T18440010800
-UID:bb40eff2df606e995c513f237b20e77d@bitrix
+UID:e704c6293149ee79734c009ed9970a39@bitrix
 SUMMARY:Outbound call Group ONE
 DESCRIPTION:Called, got someone named Jeff, asked for Joel, got Joel. Joel said they're a distributor and they do low-voltage stuff. Thanks Joel. They don't have any contracts or anything to sell directly. Get an RFQ, shoot it over to Joel. We can get an account and they do promos, but they don't offer anything more formal than that for partnership.
 
@@ -854,7 +854,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220608T201500Z
 DTEND;VALUE=DATE-TIME:20220608T202100Z
 DTSTAMP:20220608T20230010800
-UID:fd8a5b88e04afa83311d513d4ce57250@bitrix
+UID:5e69cf026ec390d0d06bc829154cd533@bitrix
 SUMMARY:Outbound call ALDEC
 DESCRIPTION:Got Cindy.\nShe said they usually do renewals by sending a quote to the end user, then the end user puts out an RFQ and the payment is handled that way.\nAlso explained what "design verification" is (it checks for bugs in FPGA / ASIC design, basically a linter for hardware)..
 
@@ -867,7 +867,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220608T202500Z
 DTEND;VALUE=DATE-TIME:20220608T202900Z
 DTSTAMP:20220608T20290010800
-UID:8187b2d2df94a9eb8e95b591af9cb13a@bitrix
+UID:0405a9f425b525688c049c73c27d6723@bitrix
 SUMMARY:Outbound call Alertus
 DESCRIPTION:Voicemail.
 
@@ -880,7 +880,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220608T203500Z
 DTEND;VALUE=DATE-TIME:20220608T203900Z
 DTSTAMP:20220609T16560010800
-UID:4a80b9217ad1caa8803315b26d08cbfd@bitrix
+UID:5ba8874da96c34b768606477cc99684b@bitrix
 SUMMARY:Outbound call Alloy Software
 DESCRIPTION:Voicemail.
 
@@ -893,7 +893,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220609T170000Z
 DTEND;VALUE=DATE-TIME:20220609T170400Z
 DTSTAMP:20220609T17050010800
-UID:d138c0eae41093166f8b160e4ca746ba@bitrix
+UID:0ba2b7fca47a16ec4a506c1039fef51a@bitrix
 SUMMARY:Outbound call Alta Data Technologies
 DESCRIPTION:Voicemail.
 
@@ -906,7 +906,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220609T170500Z
 DTEND;VALUE=DATE-TIME:20220609T170900Z
 DTSTAMP:20220609T17090010800
-UID:241c30b59507d768e2c2bab9e783b0ac@bitrix
+UID:f6cb37bb1b09fb7a95bb18bc62b45ee8@bitrix
 SUMMARY:Outbound call Altair
 DESCRIPTION:Voicemail.
 
@@ -919,7 +919,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220609T172500Z
 DTEND;VALUE=DATE-TIME:20220609T173500Z
 DTSTAMP:20220609T17340010800
-UID:a818ddbe4b016aeb0898c0c322c9888e@bitrix
+UID:05f6455cca6fcb9889bc346a374f8a71@bitrix
 SUMMARY:Outbound call FedResults
 DESCRIPTION:Fedresults supports a lot of software and they're divided into teams. Other teams might be seeking partners and resellers.\nHe's connecting me to someone on their Alteryx team.\nThey're located in Reston, VA, might be close enough for a meeting.\nSays he couldn't get in touch with anyone from the Alteryx team but he'd send an email connecting us. Apparently they have loads of teams and are a sister company of Carahsoft.
 
@@ -932,7 +932,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220609T174000Z
 DTEND;VALUE=DATE-TIME:20220609T174500Z
 DTSTAMP:20220609T17460010800
-UID:2093a91e8b278e7d2e6ca899cb47ca7e@bitrix
+UID:75159e986423f101d4202b50a5fbc017@bitrix
 SUMMARY:Outbound call ALTINEX Inc
 DESCRIPTION:They do direct sales. Sterling, Anixter, Greybar?, Herman Pro AV are distributors they work with who they give a discount to. She seemed a little irritated with the quality of my phone so it didn't feel like a good time to press for a relationship. Seems like they have a fairly unique couple products though, so I'll set a task to look at them again.\nWe also spoke about their products very briefly, just connectivity testers, sockets and multi-sockets for desks and tables and stuff.
 
@@ -945,7 +945,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220609T183500Z
 DTEND;VALUE=DATE-TIME:20220609T183700Z
 DTSTAMP:20220609T18340010800
-UID:e3c2e5a800892be68c44e9f99dc159d4@bitrix
+UID:0a0c44d78a0ec35663da2feab94a379c@bitrix
 SUMMARY:Outbound call Alertus
 DESCRIPTION:Got a call from Pete Lester last night after leaving. Called him back and caught him in a meeting, he asked me to email him at plester@alertus.com.\nWill add his contact and shoot him an email.
 
@@ -958,7 +958,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220609T185000Z
 DTEND;VALUE=DATE-TIME:20220609T191000Z
 DTSTAMP:20220609T19000010800
-UID:c77c2c0018c5353dc249bcdf3d14bc27@bitrix
+UID:cecefd43920d029830b11681c66d0d4a@bitrix
 SUMMARY:Outbound call Altium
 DESCRIPTION:Called their general sales line after trying the other two, gave the company name and was directed to John Schafer.\nPCB design software, training, 365 (a library for components), enterprise-level solutions. Perpetual and term licenses.\nPricing: https://digitalsales.altium.com/\nFor some reason we had a 22% discount showing on our quote from late 2020, but John didn't know anything about that and said they don't normally do any third-party discounts. \nSeems like there's a pretty narrow field for these guys (PCB design), probably not a super valueable relationship to build.
 
@@ -971,7 +971,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220609T190500Z
 DTEND;VALUE=DATE-TIME:20220609T191700Z
 DTSTAMP:20220609T19160010800
-UID:9dd3a9c255033edccba8c98d4f925186@bitrix
+UID:63c0a37b865c346f3e2b88f119738e6b@bitrix
 SUMMARY:Outbound call AMAX
 DESCRIPTION:Got Quish. System integrator. HPC servers, OEM contract manufacturing, clusters. They can also put together hardware and handle logistics for it. 1979, Freemont CA. Offices in EU, China. Supermicro, ASUS, Gigabyte, don't really do workstations. Elite NVIDIA partner. DGX stuff, GPU-based stuff. Big claim to fame is multiple ISO certifications. Do burn-in. \nNot uber-cheap, but competitively-priced, they're quality-focussed.\nDon't really do much work with resellers. They don't think they'd be a good fit. Maybe Quanta or Supermicro. Lambda systems might be good.\nSuuuper helpful guy. Seems like a valuable company to know for customers seeking a system integrator.
 
@@ -984,7 +984,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220609T192500Z
 DTEND;VALUE=DATE-TIME:20220609T193700Z
 DTSTAMP:20220609T19310010800
-UID:ae025cc981a4418977911da2c0939408@bitrix
+UID:0058a34635a370a11e7eca2044ea17f3@bitrix
 SUMMARY:Outbound call Southern Marketing Associates Inc
 DESCRIPTION:Says they can't do special relationships or pricing due to relationship with their manufacturers\nJim Welch is rep in our area, but the rep depends on the region of the end user.\nPaul Bessette 407 342 5860 <-- manager, big fella.\nIf end use is outside the contracted territory, they can help you find someone to help but they can't help.
 
@@ -997,7 +997,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220609T195500Z
 DTEND;VALUE=DATE-TIME:20220609T200100Z
 DTSTAMP:20220609T20020010800
-UID:d5907be46e5e04fc40bf0ea8cc863d8f@bitrix
+UID:c55b342113a01e3b78743ab66a3b0040@bitrix
 SUMMARY:Outbound call AMPTEC Research Corp
 DESCRIPTION:Electronics mfer, sell mainly igniter testers or bonding meters (safe and accurate ohmmeters).\nSell direct to most customers but not normally to the feds. info@amptec is the place to go to talk about stuff like that.\nEmail sales@amptec for Dave (my existing contact). \nWas speaking to Jordan Smith.
 
@@ -1010,7 +1010,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220609T201500Z
 DTEND;VALUE=DATE-TIME:20220609T202100Z
 DTSTAMP:20220609T20180010800
-UID:910de0b840966d762d9c45e92bf0baaf@bitrix
+UID:c071960fcaf9fe5362ea2cf115deee89@bitrix
 SUMMARY:Outbound call Amtron Technology Inc
 DESCRIPTION:Got an operator of some kind who directed me to Eddie. He thought I was some sort of salesperson and tried to shoulder me off. I explained that our company is essentially a customer and he asked for a quote number, which I was able to provide. Unfortunately, he was quite unwilling to provide and information or help at all, and said "I don't think I'm paid to provide any of that kind of information". I saw that it wasn't going to be worth my time and politely allowed him to end the call.\nTheir website smells bad.
 
@@ -1023,7 +1023,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220609T202000Z
 DTEND;VALUE=DATE-TIME:20220609T202400Z
 DTSTAMP:20220609T20220010800
-UID:6b88e3ffcde32d45bcad7052e41415db@bitrix
+UID:98f52267e8c65c8d32f0b890e7751f77@bitrix
 SUMMARY:Outbound call Anaconda
 DESCRIPTION:Couldn't find any other phone numbers to try. Voicemail.
 
@@ -1036,7 +1036,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220609T203000Z
 DTEND;VALUE=DATE-TIME:20220609T203400Z
 DTSTAMP:20220609T20300010800
-UID:feceb8d726c19ff0c6ba49826807864a@bitrix
+UID:ae4f7ef69e6781751ad900285f515610@bitrix
 SUMMARY:Outbound call anchore
 DESCRIPTION:Can't find another good contact. Voicemail.
 
@@ -1049,7 +1049,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220609T203500Z
 DTEND;VALUE=DATE-TIME:20220609T203900Z
 DTSTAMP:20220609T20360010800
-UID:1794e0904b655b2aace2e9d324a55d07@bitrix
+UID:015fb5c7e9cff185e2665b508b46db16@bitrix
 SUMMARY:Outbound call ANOMALI
 DESCRIPTION:The operator wasn't there. I went to the operator's voicemail. I'll call again tomorrow, I'm not leaving a message for the freakin operator.
 
@@ -1062,7 +1062,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220609T204000Z
 DTEND;VALUE=DATE-TIME:20220609T204400Z
 DTSTAMP:20220609T20410010800
-UID:bc262281dbc14e2fd80dab234b44c93b@bitrix
+UID:6c4384926e2fbf7d1c096911a283016d@bitrix
 SUMMARY:Outbound call Anritsu
 DESCRIPTION:Voicemail. There's some other numbers on their site, I'll set a task to call them if they don't get in touch tomorrow.
 
@@ -1075,9 +1075,87 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE-TIME:20220609T204500Z
 DTEND;VALUE=DATE-TIME:20220609T205000Z
 DTSTAMP:20220609T20460010800
-UID:50a63ab9d8c5314475b593c3ee9c36db@bitrix
+UID:e285b049668579ab78576c3eb1e5625d@bitrix
 SUMMARY:Outbound call Adorama Business Solutions
 DESCRIPTION:Also a reseller, they've worked with us in the past. \nEric works with the Army and the NSA. \ngsa@adorama.com is their general-purpose inbox to send quotes to.\nWasn't able to get anything else out of him, he was railroading the call along like he was going home in 15 minutes.
+
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20220610T140500Z
+DTEND;VALUE=DATE-TIME:20220610T141000Z
+DTSTAMP:20220610T14090010800
+UID:4432bf9e72dceaa18c39d3729bb6788a@bitrix
+SUMMARY:Inbound call Amphenol Network Solutions
+DESCRIPTION:traci from amphenol called.\nGeorge came over for a quote \namphenol has 100seomthing subsidiaries, parts were not from amphenol networks stuff\n(was more amphenol custom cable or amphenol rf)\nthey have distribution partners\nterry fulkert? should be getting in touch, he manages their distribution stuff
+
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20220610T182500Z
+DTEND;VALUE=DATE-TIME:20220610T183300Z
+DTSTAMP:20220610T18300010800
+UID:bcfe9bb470a712d18358ca8736609eef@bitrix
+SUMMARY:Outbound call Ansys
+DESCRIPTION:Generally simulation software (fluid sim, etc). Basically, if a customer does engineering work, they will benefit from this software.\nHard time explaining purpose of call to him, he didn't seem well-connected to the business at large or particularly interested in growth. \nCustomers generally come to them and purchase directly unless they have to purchase through SEWP, then they get resellers working with them.
+
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20220610T184000Z
+DTEND;VALUE=DATE-TIME:20220610T184300Z
+DTSTAMP:20220610T18420010800
+UID:6f46b4a28f708b486dc1f4803450f209@bitrix
+SUMMARY:Outbound call The AnyLogic Company
+DESCRIPTION:Voicemail.
+
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20220610T191000Z
+DTEND;VALUE=DATE-TIME:20220610T191300Z
+DTSTAMP:20220610T19090010800
+UID:96e2949e629c32547ca3da16ec1e20f1@bitrix
+SUMMARY:Outbound call Apcon
+DESCRIPTION:Immediate voicemail.
+
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20220610T194500Z
+DTEND;VALUE=DATE-TIME:20220610T200000Z
+DTSTAMP:20220610T19580010800
+UID:9691126d732928b4d0f84cfb99c489e9@bitrix
+SUMMARY:Inbound call Amphenol Network Solutions
+DESCRIPTION:email to aphenolNS got passed to this TX guy with network solutions\nnot real familiar with ETS\nnot on GSA\nthey do a lot of commercial business and his sales people are mostly focussed on that\nsays he can be helpful \ncorning / compscope\nwesco(anixter) \naccutec, greybars?\ncontractors that install product can also be valuable to know (there are fed-focused teams to know) Northern VA\n125 business units, 5-6 useful ones (in amphenol) etc\nhe's with amphenol NS \nhe can introduce to products so we can know more about em from distributor\ncomscope / corning will already be working with other distributors\nmight be able to recommend alternate products to get a lower price
+
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE-TIME:20220610T202500Z
+DTEND;VALUE=DATE-TIME:20220610T202800Z
+DTSTAMP:20220610T20270010800
+UID:ccd249543915e2b5abb48b6e32e31527@bitrix
+SUMMARY:Outbound call Shakira Burroughs
+DESCRIPTION:Line was just... empty. Rung strangely for a while then just went silent.
 
 LOCATION:
 SEQUENCE:0
