@@ -11,7 +11,7 @@ fn main() {
     // mkv_file.read_to_string(&mut mkv_contents).expect("Error reading file to string");
     // println!("{}", mkv_contents)
 
-    let mkv_file = File::open("mkv_sample.mkv").expect("Error opening .mkv file");
+    let mkv_file = File::open("aac_test.m4a").expect("Error opening file");
 
     let mut bytey = String::new();
 

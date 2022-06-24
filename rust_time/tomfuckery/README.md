@@ -16,7 +16,9 @@ Yea but check this: it is. However, it might be useful to some people (me) for f
   * LINE 4 SAYS "matroska" :DDDDDDD
   * first four octets are the master element ID 0x1A45DFA3
   * Subtask: print bytes as hexadecimal (big-endian)
+  * This is super hard since ordering is less.. fixed... than I thought it would be. Found MKVToolNix (https://www.matroska.org/downloads/mkvtoolnix.html) and it should help a lot.
 * Based on that, decide how it might be most practical to identify "sounds" 
+  * Seems like my sound codec is AAC (Advanced Audio Encoding, A_AAC).
 * Create a test that uses a direct copy of the bytes to find sounds
 * Play around with some math libraries or something for more useful, general sound identification
 * Throw together a basic CLI
