@@ -1,0 +1,10 @@
+*.o
+*.lock
+*.bin
+*.d
+*.exe
+*.timestamp
+*.pdb
+/calculator/target
+/hello_cargo/target
+/tomfuckery/target
