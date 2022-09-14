@@ -19,7 +19,7 @@ use text_io::scan;
 fn main() {
     display_greeting();
     let input = get_input();
-    println!("{:?}", input);
+    // println!("{:?}", input);
     
 
     
