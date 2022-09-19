@@ -2,6 +2,7 @@
 // A proof of discipline. Not to be failed. Don't hire me if this doesn't do what it's supposed to.
 // I'm completing this project as a part of a code sprint. I'm actually not allowed to do anything else
 // until it's done.
+// Later comment: I did it :D
 /**
  * Startup behavior:
  * * display welcome message
