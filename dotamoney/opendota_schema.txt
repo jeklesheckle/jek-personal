@@ -1,0 +1,339 @@
+api_key_usage		account_id		bigint
+api_key_usage		customer_id		text
+api_key_usage		api_key		uuid
+api_key_usage		usage_count		bigint
+api_key_usage		ip		text
+api_key_usage		timestamp		timestamp without time zone
+api_keys		account_id		bigint
+api_keys		api_key		uuid
+api_keys		customer_id		text
+api_keys		subscription_id		text
+competitive_rank		account_id		bigint
+competitive_rank		rating		integer
+cosmetics		item_id		integer
+cosmetics		name		text
+cosmetics		prefab		text
+cosmetics		creation_date		timestamp with time zone
+cosmetics		image_inventory		text
+cosmetics		image_path		text
+cosmetics		item_description		text
+cosmetics		item_name		text
+cosmetics		item_rarity		text
+cosmetics		item_type_name		text
+cosmetics		used_by_heroes		text
+hero_ranking		account_id		bigint
+hero_ranking		hero_id		integer
+hero_ranking		score		double precision
+hero_search		match_id		bigint
+hero_search		teama		ARRAY
+hero_search		teamb		ARRAY
+hero_search		teamawin		boolean
+hero_search		start_time		integer
+heroes		id		integer
+heroes		name		text
+heroes		localized_name		text
+heroes		primary_attr		text
+heroes		attack_type		text
+heroes		roles		ARRAY
+heroes		legs		integer
+items		id		integer
+items		name		text
+items		cost		integer
+items		secret_shop		smallint
+items		side_shop		smallint
+items		recipe		smallint
+items		localized_name		text
+leaderboard_rank		account_id		bigint
+leaderboard_rank		rating		integer
+leagues		leagueid		bigint
+leagues		ticket		character varying
+leagues		banner		character varying
+leagues		tier		character varying
+leagues		name		character varying
+match_gcdata		match_id		bigint
+match_gcdata		cluster		integer
+match_gcdata		replay_salt		integer
+match_gcdata		series_id		integer
+match_gcdata		series_type		integer
+match_logs		match_id		bigint
+match_logs		time		integer
+match_logs		type		character varying
+match_logs		team		smallint
+match_logs		unit		character varying
+match_logs		key		character varying
+match_logs		value		integer
+match_logs		slot		smallint
+match_logs		player_slot		smallint
+match_logs		player1		integer
+match_logs		player2		integer
+match_logs		attackerhero		boolean
+match_logs		targethero		boolean
+match_logs		attackerillusion		boolean
+match_logs		targetillusion		boolean
+match_logs		inflictor		character varying
+match_logs		gold_reason		smallint
+match_logs		xp_reason		smallint
+match_logs		valuename		character varying
+match_logs		gold		integer
+match_logs		lh		integer
+match_logs		xp		integer
+match_logs		x		smallint
+match_logs		y		smallint
+match_logs		z		smallint
+match_logs		entityleft		boolean
+match_logs		ehandle		integer
+match_logs		stuns		real
+match_logs		hero_id		smallint
+match_logs		life_state		smallint
+match_logs		level		smallint
+match_logs		kills		smallint
+match_logs		deaths		smallint
+match_logs		assists		smallint
+match_logs		denies		smallint
+match_logs		attackername_slot		smallint
+match_logs		targetname_slot		smallint
+match_logs		sourcename_slot		smallint
+match_logs		targetsourcename_slot		smallint
+match_logs		player1_slot		smallint
+match_logs		attackername		character varying
+match_logs		targetname		character varying
+match_logs		sourcename		character varying
+match_logs		targetsourcename		character varying
+match_logs		obs_placed		integer
+match_logs		sen_placed		integer
+match_logs		creeps_stacked		integer
+match_logs		camps_stacked		integer
+match_logs		rune_pickups		integer
+match_patch		match_id		bigint
+match_patch		patch		text
+matches		match_id		bigint
+matches		match_seq_num		bigint
+matches		radiant_win		boolean
+matches		start_time		integer
+matches		duration		integer
+matches		tower_status_radiant		integer
+matches		tower_status_dire		integer
+matches		barracks_status_radiant		integer
+matches		barracks_status_dire		integer
+matches		cluster		integer
+matches		first_blood_time		integer
+matches		lobby_type		integer
+matches		human_players		integer
+matches		leagueid		integer
+matches		positive_votes		integer
+matches		negative_votes		integer
+matches		game_mode		integer
+matches		engine		integer
+matches		picks_bans		ARRAY
+matches		radiant_team_id		integer
+matches		dire_team_id		integer
+matches		radiant_team_name		character varying
+matches		dire_team_name		character varying
+matches		radiant_team_complete		smallint
+matches		dire_team_complete		smallint
+matches		radiant_captain		bigint
+matches		dire_captain		bigint
+matches		chat		ARRAY
+matches		objectives		ARRAY
+matches		radiant_gold_adv		ARRAY
+matches		radiant_xp_adv		ARRAY
+matches		teamfights		ARRAY
+matches		version		integer
+matches		cosmetics		json
+matches		radiant_score		integer
+matches		dire_score		integer
+matches		draft_timings		ARRAY
+matches		series_id		integer
+matches		series_type		integer
+mmr_estimates		account_id		bigint
+mmr_estimates		estimate		integer
+notable_players		account_id		bigint
+notable_players		name		character varying
+notable_players		country_code		character varying
+notable_players		fantasy_role		integer
+notable_players		team_id		integer
+notable_players		team_name		character varying
+notable_players		team_tag		character varying
+notable_players		is_locked		boolean
+notable_players		is_pro		boolean
+notable_players		locked_until		integer
+parsed_matches		match_id		bigint
+picks_bans		match_id		bigint
+picks_bans		is_pick		boolean
+picks_bans		hero_id		integer
+picks_bans		team		smallint
+picks_bans		ord		smallint
+player_matches		match_id		bigint
+player_matches		account_id		bigint
+player_matches		player_slot		integer
+player_matches		hero_id		integer
+player_matches		item_0		integer
+player_matches		item_1		integer
+player_matches		item_2		integer
+player_matches		item_3		integer
+player_matches		item_4		integer
+player_matches		item_5		integer
+player_matches		kills		integer
+player_matches		deaths		integer
+player_matches		assists		integer
+player_matches		leaver_status		integer
+player_matches		gold		integer
+player_matches		last_hits		integer
+player_matches		denies		integer
+player_matches		gold_per_min		integer
+player_matches		xp_per_min		integer
+player_matches		gold_spent		integer
+player_matches		hero_damage		integer
+player_matches		tower_damage		bigint
+player_matches		hero_healing		bigint
+player_matches		level		integer
+player_matches		additional_units		ARRAY
+player_matches		stuns		real
+player_matches		max_hero_hit		json
+player_matches		times		ARRAY
+player_matches		gold_t		ARRAY
+player_matches		lh_t		ARRAY
+player_matches		xp_t		ARRAY
+player_matches		obs_log		ARRAY
+player_matches		sen_log		ARRAY
+player_matches		purchase_log		ARRAY
+player_matches		kills_log		ARRAY
+player_matches		buyback_log		ARRAY
+player_matches		lane_pos		json
+player_matches		obs		json
+player_matches		sen		json
+player_matches		actions		json
+player_matches		pings		json
+player_matches		purchase		json
+player_matches		gold_reasons		json
+player_matches		xp_reasons		json
+player_matches		killed		json
+player_matches		item_uses		json
+player_matches		ability_uses		json
+player_matches		hero_hits		json
+player_matches		damage		json
+player_matches		damage_taken		json
+player_matches		damage_inflictor		json
+player_matches		runes		json
+player_matches		killed_by		json
+player_matches		kill_streaks		json
+player_matches		multi_kills		json
+player_matches		life_state		json
+player_matches		damage_inflictor_received		json
+player_matches		obs_placed		integer
+player_matches		sen_placed		integer
+player_matches		creeps_stacked		integer
+player_matches		camps_stacked		integer
+player_matches		rune_pickups		integer
+player_matches		obs_left_log		ARRAY
+player_matches		sen_left_log		ARRAY
+player_matches		ability_upgrades_arr		ARRAY
+player_matches		party_id		integer
+player_matches		permanent_buffs		ARRAY
+player_matches		backpack_0		integer
+player_matches		backpack_1		integer
+player_matches		backpack_2		integer
+player_matches		runes_log		ARRAY
+player_matches		lane		integer
+player_matches		lane_role		integer
+player_matches		is_roaming		boolean
+player_matches		firstblood_claimed		integer
+player_matches		teamfight_participation		real
+player_matches		towers_killed		integer
+player_matches		roshans_killed		integer
+player_matches		observers_placed		integer
+player_matches		party_size		integer
+player_matches		ability_targets		json
+player_matches		damage_targets		json
+player_matches		dn_t		ARRAY
+player_matches		connection_log		ARRAY
+player_matches		backpack_3		integer
+player_matches		item_neutral		integer
+player_matches		net_worth		integer
+player_ratings		account_id		bigint
+player_ratings		match_id		bigint
+player_ratings		solo_competitive_rank		integer
+player_ratings		competitive_rank		integer
+player_ratings		time		timestamp with time zone
+players		account_id		bigint
+players		steamid		character varying
+players		avatar		character varying
+players		avatarmedium		character varying
+players		avatarfull		character varying
+players		profileurl		character varying
+players		personaname		character varying
+players		last_login		timestamp with time zone
+players		full_history_time		timestamp with time zone
+players		cheese		integer
+players		fh_unavailable		boolean
+players		loccountrycode		character varying
+players		last_match_time		timestamp with time zone
+players		plus		boolean
+public_matches		match_id		bigint
+public_matches		match_seq_num		bigint
+public_matches		radiant_win		boolean
+public_matches		start_time		integer
+public_matches		duration		integer
+public_matches		avg_mmr		integer
+public_matches		num_mmr		integer
+public_matches		lobby_type		integer
+public_matches		game_mode		integer
+public_matches		avg_rank_tier		double precision
+public_matches		num_rank_tier		integer
+public_matches		cluster		integer
+public_player_matches		match_id		bigint
+public_player_matches		player_slot		integer
+public_player_matches		hero_id		integer
+queue		id		bigint
+queue		type		text
+queue		timestamp		timestamp with time zone
+queue		attempts		integer
+queue		data		json
+queue		next_attempt_time		timestamp with time zone
+queue		priority		integer
+rank_tier		account_id		bigint
+rank_tier		rating		integer
+rank_tier_2019_1		account_id		bigint
+rank_tier_2019_1		rating		integer
+scenarios		hero_id		smallint
+scenarios		item		text
+scenarios		time		integer
+scenarios		lane_role		smallint
+scenarios		games		bigint
+scenarios		wins		bigint
+scenarios		epoch_week		integer
+solo_competitive_rank		account_id		bigint
+solo_competitive_rank		rating		integer
+subscriber		account_id		bigint
+subscriber		customer_id		character varying
+subscriber		status		character varying
+subscriptions		account_id		bigint
+subscriptions		customer_id		character varying
+subscriptions		amount		integer
+subscriptions		active_until		date
+team_match		team_id		bigint
+team_match		match_id		bigint
+team_match		radiant		boolean
+team_rating		team_id		bigint
+team_rating		rating		real
+team_rating		wins		integer
+team_rating		losses		integer
+team_rating		last_match_time		bigint
+team_scenarios		scenario		text
+team_scenarios		is_radiant		boolean
+team_scenarios		region		smallint
+team_scenarios		games		bigint
+team_scenarios		wins		bigint
+team_scenarios		epoch_week		integer
+teams		team_id		bigint
+teams		name		character varying
+teams		tag		character varying
+teams		logo_url		text
+user_usage		account_id		bigint
+user_usage		ip		text
+user_usage		usage_count		bigint
+user_usage		timestamp		timestamp without time zone
+webhooks		hook_id		uuid
+webhooks		account_id		bigint
+webhooks		url		text
+webhooks		subscriptions		jsonb
