@@ -1,3 +1,5 @@
 rust_time/guessing_game/target/*
 rust_time/hello_cargo/target/*
 ETS_minis/ContractOpportunities/creds.txt
+ETS_minis/ContractOpportunities/build
+ETS_minis/ContractOpportunities/dist

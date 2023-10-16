@@ -1,0 +1,8 @@
+tried just pyinstaller full_script_v0.py 
+    openpyxl module not found error
+tried pyinstaller -wF full_script_v0.py --hidden-import openpyxl
+    same exact problem. console mentioned it couldn't find hidden import jinja2
+tried again same command after pip installing jinja2 and openpyxl
+    WORKED, wrote file. Still being rate limited tho.
+
+fuckin with imports to reduce size from 45mb, make sure things still work (else just import the whole libraries)
